@@ -10,6 +10,7 @@ Evaluate code&amp;Logger discord bot Create with discord-akairo <br>
 随時更新するよ<br>
 listenerの使い方がわからない:cry:誰かおちえて
 ## [repl.it][replit]で動かすためのコードです！
+# :warning:作りかけ！
 
 # 機能↓
 - [ ] Prefix変更コマンド
@@ -19,7 +20,7 @@ listenerの使い方がわからない:cry:誰かおちえて
 - [ ] Logger
 - [ ] userInfo,serverInfo
 <br><br>
-
+# :warning:作りかけ！
 # コマンドとか使い方とか
 ## A.使い方
 `.env`ファイルの中に書いてある項目を埋めれば使えます。<br><br>
@@ -44,3 +45,4 @@ listenerの使い方がわからない:cry:誰かおちえて
 |eval \<code>|codeの中身が実際に実行される。<br>:warning:サーバーやプログラムに変更が加えられる:warning:<br>(動くのは[Discord.js][djs]と[discord-akairo][akairo]書式のみ)チャンネルに実行した際の詳細が表示されない|-|
 |eval2 \<code>|codeの中身を実行する(チャンネルに実行時間や関数など詳細が表示されたコードブロックが送信される)|-|
 |evalmode \<on\|off>|onにしたチャンネルに送信されたものが全て実行される(チャンネルをコマンドプロンプト化する)(オーナーとこのbot以外のユーザーからのメッセージは削除され、実行されない)|-|
+# :warning:作りかけ！
