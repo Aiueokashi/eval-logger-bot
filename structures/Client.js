@@ -29,11 +29,7 @@ class Client extends AkairoClient {
 	constructor() {
 		super(
 			{
-				ownerID: [
-					'475304856018616340',
-					'648352593365434370',
-					'489012602182041601'
-				]
+				ownerID: ['オーナーID(別にここに入れる必要はない)']
 			},
 			{
 				disableMentions: 'everyone'
