@@ -1,0 +1,14 @@
+[
+	{
+		"text": "Run On REPL.IT",
+		"type": "PLAYING"
+	}
+  {
+		"text": "HELLO?",
+		"type": "WATCHING"
+	}
+  {
+		"text": "What music do U like?",
+		"type": "LISTENING"
+	}
+]
