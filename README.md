@@ -14,7 +14,7 @@ listenerの使い方がわからない:cry:誰かおちえて
 # 機能↓
 - [ ] Prefix変更コマンド
 - [x] Eval
-- [x] CallbackEval
+- [x] EvalModeChannel
 - [ ] ModerationCommands
 - [ ] Logger
 - [ ] userInfo,serverInfo
