@@ -85,7 +85,7 @@ client.on('message', async message => {
 				}
 				const { eval } = require('./modules/evalmode.js');
 				eval(client, message, args);
-			} else if (message.author.id === '749580900769071155') {
+			} else if (message.author.id === client.user.id) {
 			} else {
 				message.delete({ timeout: 500 }).then(async message => {
 					var msg = await message.channel.send(
