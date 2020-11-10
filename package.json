@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "あいうえお菓子",
+  "author": "AiueoKashi",
   "license": "MIT",
   "dependencies": {
     "@replit/database": "^2.0.0",
