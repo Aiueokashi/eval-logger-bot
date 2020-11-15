@@ -36,7 +36,6 @@ Evaluate code&amp;Logger discord bot Create with discord-akairo <br>
 
 |サーバーオーナー用コマンド|説明|短縮|
 |---|---|---|
-|prefix \<value>|サーバーのprefixを変更|-|
 |ban \<value>|指定したuserをban(IDかメンション)|-|
   
 |botオーナー用コマンド|説明|短縮|
