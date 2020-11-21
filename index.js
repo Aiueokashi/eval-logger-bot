@@ -7,16 +7,7 @@ const discord = require('discord.js');
 const { MessageEmbed } = require('discord.js');
 const client = new Client({
 	partials: ['MESSAGE', 'CHANNEL', 'REACTION'],
-	prefix: message => {
-		evaldb.get(`prefix_${message.guild.id}`).then(value => {
-			if (value) {
-				var prefix = value;
-				return prefix;
-			} else {
-				return '!';
-			}
-		});
-	},
+	prefix: EVAL_PREFIX,
 	ownerID: EVAL_OWNERS.split(','),
 	disableEveryone: true,
 	disabledEvents: []
